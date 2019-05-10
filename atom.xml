@@ -5,9 +5,9 @@
   <subtitle>写博客是为了防止重复工作</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2019-05-10T06:23:53.410Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://zuobb.cn/"/>
+  <updated>2019-05-10T14:46:04.118Z</updated>
+  <id>https://zuobb.cn/</id>
   
   <author>
     <name>Zuo</name>
@@ -17,9 +17,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>我的第一篇博客</title>
+    <link href="https://zuobb.cn/2019/05/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://zuobb.cn/2019/05/10/我的第一篇博客/</id>
+    <published>2019-05-10T13:29:05.000Z</published>
+    <updated>2019-05-10T14:46:04.118Z</updated>
+    
+    <content type="html"><![CDATA[<p>第一篇博客，存点工具网址</p><a id="more"></a><h1 id="勿忘初心"><a href="#勿忘初心" class="headerlink" title="勿忘初心"></a>勿忘初心</h1><ul><li>每个月必须坚持一篇博客更新。</li><li>记住初心，为了防止重复工作。</li><li>本篇持续更新个人觉得好用的资源网址</li></ul><h1 id="资源网址"><a href="#资源网址" class="headerlink" title="资源网址"></a>资源网址</h1><h3 id="图片类网址"><a href="#图片类网址" class="headerlink" title="图片类网址"></a>图片类网址</h3><p><a href="http://www.bitbug.net/" title="在线制作ico图标" target="_blank" rel="noopener">比特虫–在线制作ico图标</a></p><p><a href="http://www.atool9.com/roundcorner.php" title="在线制作占位图" target="_blank" rel="noopener">aTool–在线制作占位图</a></p><p><a href="https://huaban.com/" title="花瓣" target="_blank" rel="noopener">花瓣–免费好看的图库</a></p><p><a href="www.uupoop.com" title="花瓣">uupoop–在线PS图片</a></p><p><a href="https://www.iconfont.cn/" title="阿里图标" target="_blank" rel="noopener">iconfont–阿里图标</a></p><h3 id="前端工具网址"><a href="#前端工具网址" class="headerlink" title="前端工具网址"></a>前端工具网址</h3><p><a href="https://jsperf.com/" title="js性能测试" target="_blank" rel="noopener">jsperf–js性能测试</a></p><p><a href="https://autoprefixer.github.io/" title="自动添加css前缀" target="_blank" rel="noopener">Autoprefixer–自动添加css前缀</a></p><p><a href="https://www.sojson.com/jsjiemi.html" title="js解密" target="_blank" rel="noopener">sojson–js解密</a></p><p><a href="https://www.telerik.com/download/fiddler" title="抓包工具" target="_blank" rel="noopener">fillder–抓包工具</a></p><p><a href="http://www.wwei.cn/" title="二维码生成" target="_blank" rel="noopener">微微–二维码在线生成</a></p><h3 id="知名团队博客"><a href="#知名团队博客" class="headerlink" title="知名团队博客"></a>知名团队博客</h3><p><a href="http://taobaofed.org/" title="淘宝前端博客" target="_blank" rel="noopener">淘宝前端团队博客</a></p><p><a href="https://75team.com/" title="360前端团队博客" target="_blank" rel="noopener">360前端团队博客</a></p><p><a href="https://tech.meituan.com/" title="美团技术博客" target="_blank" rel="noopener">美团技术团队博客</a></p><p><a href="http://www.alloyteam.com/" title="腾讯Alloyteam团队博客" target="_blank" rel="noopener">腾讯Alloyteam团队博客</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;第一篇博客，存点工具网址&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="资源网址" scheme="https://zuobb.cn/categories/%E8%B5%84%E6%BA%90%E7%BD%91%E5%9D%80/"/>
+    
+    
+      <category term="资源" scheme="https://zuobb.cn/tags/%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="工具" scheme="https://zuobb.cn/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/05/09/hello-world/"/>
-    <id>http://yoursite.com/2019/05/09/hello-world/</id>
+    <link href="https://zuobb.cn/2019/05/09/hello-world/"/>
+    <id>https://zuobb.cn/2019/05/09/hello-world/</id>
     <published>2019-05-09T06:24:02.580Z</published>
     <updated>2019-05-10T06:23:53.410Z</updated>
     
@@ -31,12 +55,12 @@
     
     </summary>
     
-      <category term="博客工具" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E5%B7%A5%E5%85%B7/"/>
+      <category term="博客工具" scheme="https://zuobb.cn/categories/%E5%8D%9A%E5%AE%A2%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="Md编辑工具" scheme="http://yoursite.com/tags/Md%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7/"/>
+      <category term="Md编辑工具" scheme="https://zuobb.cn/tags/Md%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7/"/>
     
-      <category term="Editor" scheme="http://yoursite.com/tags/Editor/"/>
+      <category term="Editor" scheme="https://zuobb.cn/tags/Editor/"/>
     
   </entry>
   

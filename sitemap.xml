@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2019/05/09/hello-world/</loc>
+    <loc>https://zuobb.cn/2019/05/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    
+    <lastmod>2019-05-10T14:46:04.118Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zuobb.cn/2019/05/09/hello-world/</loc>
     
     <lastmod>2019-05-10T06:23:53.410Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>https://zuobb.cn/about/index.html</loc>
     
     <lastmod>2019-05-10T06:04:44.752Z</lastmod>
     

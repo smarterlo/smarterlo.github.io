@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Zuo</title>
+  <title>小左的博客</title>
   
   <subtitle>写博客是为了防止重复工作</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://zuobb.cn/</id>
   
   <author>
-    <name>Zuo</name>
+    <name>小左</name>
     
   </author>
   

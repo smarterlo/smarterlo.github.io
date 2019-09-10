@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zuobb.cn/"/>
-  <updated>2019-08-15T01:14:56.235Z</updated>
+  <updated>2019-09-06T08:36:09.983Z</updated>
   <id>https://zuobb.cn/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>8月整理-vue+el基础知识回顾</title>
+    <link href="https://zuobb.cn/2019/09/06/8%E6%9C%88%E6%95%B4%E7%90%86-vue-el%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/"/>
+    <id>https://zuobb.cn/2019/09/06/8月整理-vue-el基础知识回顾/</id>
+    <published>2019-09-06T08:36:09.000Z</published>
+    <updated>2019-09-06T08:36:09.983Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>七月整理-vue数据绑定原理</title>

@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[iframe动态创建与内存释放]]></title>
+    <url>%2F2020%2F07%2F20%2F2020-07-20%2F</url>
+    <content type="text"><![CDATA[iframe动态创建与内存释放 -在弹窗中引入外部页面，多个iframe 使用时，使用动态创建来减少内存一次性占用。 ##iframe的动态创建12345678910111213createIframe(dom, src) &#123; dom.innerHTML = ''; let iframe = document.createElement("iframe"); iframe.style.width = '100%'; iframe.style.height = '99%'; iframe.style.margin = '0'; iframe.style.padding = '0'; iframe.style.overflow = 'hidden'; iframe.style.border = 'none'; iframe.src = src; dom.appendChild(iframe); return iframe; &#125;, -在关闭弹窗时将iframe正确释放。 ##iframe的释放 123456789destroyIframe(iframe) &#123; iframe.src = 'about:blank'; //指向空白可以释放巨大的内存。 try &#123; iframe.contentWindow.document.write(''); iframe.contentWindow.document.clear(); &#125; catch (e) &#123; &#125; iframe.parentNode.removeChild(iframe); // 页面去除iframe 元素。 &#125;, -图片对比图1 iframe弹窗打开前 f12 前端页面source 内容 -图2 弹窗内容关闭后 source内容。]]></content>
+      <categories>
+        <category>-iframe</category>
+      </categories>
+      <tags>
+        <tag>-iframe</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[8月整理-vue+el基础知识回顾]]></title>
     <url>%2F2019%2F09%2F06%2F8%E6%9C%88%E6%95%B4%E7%90%86-vue-el%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE%2F</url>
     <content type="text"></content>
